@@ -1,0 +1,14 @@
+1. Install Required Libraries
+Make sure you have Python installed (preferably version 3.8 or higher).
+
+2. Install Dependencies
+Install all required libraries using:
+
+pip install -r requirements.txt
+
+3. Run the Streamlit App
+Navigate to the main project folder (where app.py is located), and run:
+python -m streamlit run app.py
+
+4. View the Dashboard
+After running the command, your browser will automatically open as localhost
