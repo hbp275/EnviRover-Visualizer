@@ -2,6 +2,11 @@
 
 A [Streamlit](https://streamlit.io) -based dashboard to visualize live sensor data we receive from [EnviRover](https://github.com/hbp275/Envi-Rover?tab=readme-ov-file#envirover)  , including various readings. The dashboard supports time-range filtering, predictive modeling, and interactive visualizations.
 
+## Screenshots
+Here’s a preview of how the EnviRover Visualizer Dashboard looks:
+![My Image](EnviRover-Visualizer/Images/Preview.png)
+
+
 ## Features
 
 - Multiple sensor visualizations with selectable sensor types
